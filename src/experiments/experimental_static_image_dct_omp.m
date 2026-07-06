@@ -1,4 +1,3 @@
-%% Compressive Sensing — Static Image Reconstruction
 clear all;
 close all;
 clc;
