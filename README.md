@@ -321,4 +321,4 @@ The speech reconstruction script attempts to use `l1magic` or CVX if available, 
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License.
