@@ -1,7 +1,3 @@
-%% Time-Frequency Domain Analysis
-% Course: Communication Systems Lab
-% Date: 2025-03-08
-
 %% CLEAR
 clc;
 clear;
