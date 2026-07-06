@@ -1,5 +1,3 @@
-%Victor Barranca, Yolanda Hu, Alex Xuan
-%************************************************************************%
 function hat_x=omp_recovery(y,T_Mat,m)
 % y=T_Mat*x, T_Mat is n-by-m
 % y - measurements
