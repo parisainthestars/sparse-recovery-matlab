@@ -1,7 +1,8 @@
+clear all; close all; clc;
+
 % Compressed Sensing Demonstration
 % Signal: 0.7*cos(150*pi*t) + 0.3*cos(3000*pi*t)
 
-clear all; close all; clc;
 
 %% Signal Parameters
 fs = 10000;             % Sampling frequency (Hz)
