@@ -34,43 +34,6 @@ $$
 \hat{x} = \Psi \hat{s}.
 $$
 
-## Repository Structure
-
-```text
-sparse-recovery-matlab/
-│
-├── README.md
-├── LICENSE
-│
-├── data/
-│   └── cameraman100.jpg
-│
-├── src/
-│   ├── demos/
-│   │   ├── demo_two_tone_signal_l1_cvx.m
-│   │   ├── demo_speech_dct_l1_reconstruction.m
-│   │   └── demo_image_fft_thresholding.m
-│   │
-│   ├── algorithms/
-│   │   └── omp_recovery.m
-│   │
-│   ├── experiments/
-│   │   └── experimental_static_image_dct_omp.m
-│   │
-│   └── analysis/
-│       └── analyze_time_frequency_domains.m
-│
-├── figures/
-│   ├── speech_original_signal_spectrum.png
-│   ├── speech_measurement_matrix.png
-│   ├── speech_time_frequency_comparison.png
-│   ├── speech_error_sparse_coefficients.png
-│   ├── speech_spectrogram_comparison.png
-│   └── cameraman_test_image.jpg
-│
-└── docs/
-    └── Compressed_Sensing_Presentation.pptx
-```
 
 ## Implemented Files
 
