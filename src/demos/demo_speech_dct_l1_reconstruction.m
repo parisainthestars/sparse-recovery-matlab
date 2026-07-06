@@ -1,13 +1,3 @@
-%% Compressive Sensing Project
-% Course: Communication Systems Lab
-% Date: 2025-03-08
-% =========================================================================
-% COMPRESSED SENSING DEMONSTRATION USING MATLAB BUILT-IN SPEECH SIGNAL
-% =========================================================================
-% This program demonstrates compressed sensing reconstruction of a speech signal
-% from far fewer samples than required by the Nyquist sampling theorem.
-
-
 clear; close all; clc; 
 
 %% 1. LOAD AND PREPARE SPEECH SIGNAL
