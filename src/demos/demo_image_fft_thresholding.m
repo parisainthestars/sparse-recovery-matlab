@@ -1,7 +1,3 @@
-% Compressed Sensing Examples
-% Copyright Brunton, Kutz, Proctor, 2016, All Rights Reserved
-% Code by Steven L. Brunton (sbrunton@uw.edu)
-
 clear all, close all, clc
 
 figure
